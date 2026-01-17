@@ -1,27 +1,27 @@
 [
   {
+    "question" : "Was ist neu in dieser Version?",
     "level" : 1,
+    "sortOrder" : 1,
     "linkType" : "Local Link",
     "link" : {
-      "title" : "HilfeStellung",
-      "url" : "HelpFunction"
+      "url" : "HelpFunction",
+      "title" : "Was ist neu"
     },
-    "sortOrder" : 1,
-    "answer" : "Es gibt eine kleine Hilfestellung",
-    "question" : "Was ist neu in dieser Version?"
+    "answer" : "siehe: Was ist neu."
   },
   {
+    "question" : "Sonst noch etwas",
     "level" : 1,
-    "linkType" : "none",
     "sortOrder" : 2,
-    "answer" : "Ja",
-    "question" : "Sonst noch etwas"
+    "linkType" : "none",
+    "answer" : "Ja"
   },
   {
+    "question" : "soso",
     "level" : 1,
-    "linkType" : "none",
     "sortOrder" : 3,
-    "answer" : "soso",
-    "question" : "soso"
+    "linkType" : "none",
+    "answer" : "soso"
   }
 ]
