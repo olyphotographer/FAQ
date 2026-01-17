@@ -1,9 +1,20 @@
 [
   {
-    "sortOrder" : 1,
-    "answer" : "Einiges...",
     "question" : "Was ist neu in dieser Version?",
+    "answer" : "Es gibt eine kleine Hilfestellung",
     "level" : 1,
-    "linkType" : "none"
+    "linkType" : "Local Link",
+    "link" : {
+      "url" : "HelpFunction",
+      "title" : "HilfeStellung"
+    },
+    "sortOrder" : 1
+  },
+  {
+    "question" : "Sonst noch etwas",
+    "answer" : "Ja",
+    "level" : 1,
+    "linkType" : "none",
+    "sortOrder" : 2
   }
 ]
