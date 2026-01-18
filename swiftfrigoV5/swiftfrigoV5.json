@@ -1,27 +1,35 @@
 [
   {
-    "sortOrder" : 1,
-    "question" : "Was ist neu in dieser Version?",
     "link" : {
       "title" : "Was ist neu?",
       "url" : "HelpFunction"
     },
-    "answer" : "siehe: Was ist neu.",
     "level" : 1,
+    "sortOrder" : 1,
+    "question" : "Was ist neu in dieser Version?",
+    "answer" : "siehe: Was ist neu.",
     "linkType" : "Local Link"
   },
   {
-    "sortOrder" : 2,
-    "question" : "Sonst noch etwas",
-    "answer" : "Ja",
+    "link" : {
+      "title" : "Neue Funktionen in Suche über alles",
+      "url" : "SucheUeberAlles"
+    },
     "level" : 1,
-    "linkType" : "none"
+    "sortOrder" : 2,
+    "question" : "Suche über alles",
+    "answer" : "siehe hier",
+    "linkType" : "Local Link"
   },
   {
-    "sortOrder" : 3,
-    "question" : "soso",
-    "answer" : "soso",
+    "link" : {
+      "title" : "Reihenfolge ändern",
+      "url" : "ReihenFolgeBilder"
+    },
     "level" : 1,
-    "linkType" : "none"
+    "sortOrder" : 3,
+    "question" : "Wie kann man die Reihenfolge der Bilder ändern",
+    "answer" : "siehe hier",
+    "linkType" : "Local Link"
   }
 ]
