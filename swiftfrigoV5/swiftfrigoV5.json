@@ -4,9 +4,9 @@
       "title" : "Was ist neu?",
       "url" : "HelpFunction"
     },
-    "level" : 1,
     "sortOrder" : 1,
     "question" : "Was ist neu in dieser Version?",
+    "level" : 1,
     "answer" : "siehe: Was ist neu.",
     "linkType" : "Local Link"
   },
@@ -15,9 +15,9 @@
       "title" : "Neue Funktionen in Suche über alles",
       "url" : "SucheUeberAlles"
     },
-    "level" : 1,
     "sortOrder" : 2,
     "question" : "Suche über alles",
+    "level" : 1,
     "answer" : "siehe hier",
     "linkType" : "Local Link"
   },
@@ -26,10 +26,21 @@
       "title" : "Reihenfolge ändern",
       "url" : "ReihenFolgeBilder"
     },
-    "level" : 1,
     "sortOrder" : 3,
     "question" : "Wie kann man die Reihenfolge der Bilder ändern",
+    "level" : 1,
     "answer" : "siehe hier",
+    "linkType" : "Local Link"
+  },
+  {
+    "link" : {
+      "title" : "Textformatierung",
+      "url" : "TextFormatierung"
+    },
+    "sortOrder" : 4,
+    "question" : "Wie kann man Text in der Beschreibung formatieren?",
+    "level" : 1,
+    "answer" : "Siehe hier:",
     "linkType" : "Local Link"
   }
 ]
